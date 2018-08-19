@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="18.5">
+  <applicationConfiguration>
+    <browserType>GoogleChrome</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>https://vahomolog.leroymerlin.com.br/va/lmbr/pt/BRL/login</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_TRUELOG_SCREENSHOT_MODE</string>
+      <int>2</int>
+    </entry>
+    <entry>
+      <string>OPT_ASSET_NAMESPACE</string>
+      <string>AUTProjectComponentTemplate</string>
+    </entry>
+  </agentOptions>
+</recorderProject>

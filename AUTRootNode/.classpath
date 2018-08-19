@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.borland.silktest.JTF_LIB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="Object Maps"/>
+	<classpathentry kind="lib" path="Resources/com.borland.silktest.jtf.javadoc_18.5.0.9630.jar"/>
+	<classpathentry kind="lib" path="Resources/com.borland.silktest.silk4j.doc_18.5.0.jar"/>
+	<classpathentry kind="lib" path="Resources/com.borland.silktest.silk4j.jar"/>
+	<classpathentry kind="lib" path="Resources/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="Resources/silktest-jtf-nodeps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
