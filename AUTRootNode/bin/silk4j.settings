@@ -2,6 +2,10 @@
 <recorderProject version="18.5">
   <applicationConfiguration>
     <browserType>GoogleChrome</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>https://vahomolog.leroymerlin.com.br/va/lmbr/pt/BRL/login</url>
+    </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
