@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="SAP Logon 730" locator="/Window[@caption=&apos;SAP Logon 730&apos;]">
+    <ObjectMapEntry id="ListView" locator="//ListView"/>
+  </ObjectMapEntry>
+</ObjectMap>

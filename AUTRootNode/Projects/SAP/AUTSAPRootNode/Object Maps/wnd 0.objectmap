@@ -1,0 +1,6 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="wnd 0" locator="/SapWindow[@automationId=&apos;/app/con[1]/ses[0]/wnd[0]&apos;]">
+    <ObjectMapEntry id="pwdRSYST-BCODE" locator="//SapTextField[@automationId=&apos;usr/pwdRSYST-BCODE&apos;]"/>
+    <ObjectMapEntry id="txtRSYST-BNAME" locator="//SapTextField[@automationId=&apos;usr/txtRSYST-BNAME&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>
