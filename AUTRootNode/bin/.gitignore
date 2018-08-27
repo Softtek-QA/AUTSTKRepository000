@@ -2,11 +2,11 @@
 /AUTIBMDB2/
 /AUTJavaDerby/
 /AUTJavaH2/
+/AUTLRYRPSVA002.objectmap
 /AUTLRYRSPBOITATA.objectmap
 /AUTLRYRSPBROWSEROBJECTS.objectmap
 /AUTLRYRSPGESTCOM.objectmap
 /AUTLRYRSPHYBRIS.objectmap
-/AUTLRYRSPSAP.objectmap
 /AUTLRYRSPVA001.objectmap
 /AUTMySQL/
 /AUTSilk/
@@ -14,6 +14,7 @@
 /CHECKPOINT-CADASTRO.verification
 /README.md
 /SAP Logon 730.objectmap
+/SITEF/
 /br/
 /package-info.class
 /silk4j.settings
