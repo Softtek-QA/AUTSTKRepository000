@@ -27,5 +27,6 @@
 	<classpathentry kind="lib" path="Resources/AUTIBMDB2/db2jcc.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTIBMDB2/db2jcc4.jar"/>
 	<classpathentry kind="src" path="Verifications"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AUTSAPRootNode"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
