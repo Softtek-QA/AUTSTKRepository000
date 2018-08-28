@@ -1,0 +1,14 @@
+<imageVerification version="1">
+  <locator>VA.CadastroClientesDados.icon icon-generic</locator>
+  <matchAccuracy>100</matchAccuracy>
+  <imageData>iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFoSURBVHhe7ZpBEoMgEAT9o/9/i6lU5WAOOAMTIGJblRO7IG3vGlLZDq5LAht8rgkASBgCIABlTQSDMAiDMgIYlPGjB2EQBmUEMCjjRw/CIAzKCGBQxo8ehEEYlBHAoIwfPQiDMCgjgEEZP3oQBmFQRgCDMn70IGXQvu/HqE/2LOdkb6PgvNe54wWgmhJLnvDZxNI8TkxyDz1yvwxKFnA278Qk99AjF0D/VGLne7mLTUMNAtDnO5XTC5YyyNmME7OsQc7mnRgAUWLl40JyZHF61qwY6y3mlA+ARPk8GlAPvR0re6xbO6dVYrWTOvEAEpQABCCnkMoxGIRBGJQRwKCMHz0IgzAoI/BUg9xDqaK7bA8CUEVpXMF6lEEt5aBy1LgCPGrc+rmjZTMqR42PAqDWAZAgZAFSlFvGlzKoBYDKAVDF21DBnDlOidGDMv8wqMYg9xjx67jsGffNHvov1xLYvlvMZgeQ4PcCp12RQWGnhKYAAAAASUVORK5CYII=</imageData>
+  <verificationMode>Full</verificationMode>
+  <excludeAreas />
+  <clientAreaOnly>false</clientAreaOnly>
+  <failedLocation>
+    <x>0</x>
+    <y>0</y>
+    <width>0</width>
+    <height>0</height>
+  </failedLocation>
+</imageVerification>
