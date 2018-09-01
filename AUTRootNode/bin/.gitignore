@@ -1,5 +1,10 @@
+/PDV-FEC-PARC.verification
+/br/
+/PDV-STATUS-0001.verification
+/.gitignore
 /AUTArquivos/
 /AUTIBMDB2/
+/AUTJAVALIB/
 /AUTJavaDerby/
 /AUTJavaH2/
 /AUTLRYRPSVA002.objectmap
@@ -11,11 +16,11 @@
 /AUTLRYRSPVA001.objectmap
 /AUTMySQL/
 /AUTSilk/
+/CHECKPOINT-AUTVA02GERADORPEDIDOS001.verification
 /CHECKPOINT-CADASTRO-ESTRANGEIRO.verification
 /CHECKPOINT-CADASTRO.verification
+/CHECKPOINT-TESTE.verification
 /README.md
 /SITEF/
-/br/
 /silk4j.settings
 /package-info.class
-/CHECKPOINT-TESTE.verification
