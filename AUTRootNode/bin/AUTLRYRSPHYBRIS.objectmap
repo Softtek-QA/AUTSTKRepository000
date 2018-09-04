@@ -1,1 +1,22 @@
-<ObjectMap version="1" />
+<ObjectMap version="1">
+  <ObjectMapEntry id="HMC" locator="//BrowserApplication">
+    <ObjectMapEntry id="TelaCadastroClientes" locator="//BrowserWindow">
+      <ObjectMapEntry id="DescricaoUsuario" locator="//TEXTAREA[@id='Content/TextAreaEditor[in Content/Attribute[.description]]_textarea']" />
+      <ObjectMapEntry id="Geral" locator="//SPAN[@textContents='Geral']" />
+      <ObjectMapEntry id="IdUsuario" locator="//INPUT[@id='Content/StringEditor[in Content/Attribute[.uid]]_input']" />
+      <ObjectMapEntry id="NomeUsuario" locator="//INPUT[@id='Content/StringEditor[in Content/Attribute[.name]]_input']" />
+    </ObjectMapEntry>
+    <ObjectMapEntry id="TelaInicial" locator="//BrowserWindow">
+      <ObjectMapEntry id="Clientes" locator="//DIV[@textContents='Clientes']" />
+      <ObjectMapEntry id="ListaIdiomas" locator="//SELECT[@id='Explorer[languagesel*']" />
+      <ObjectMapEntry id="MenuGestaoUsuarios" locator="//TD[@textContents='Gerenciar usuários d*']" />
+      <ObjectMapEntry id="NovoItem" locator="//DIV[@id='Toolbar/CreateNewToo*']" />
+      <ObjectMapEntry id="SubMenuClienteDropDown" locator="//DIV[@class='dropdown-main']//TD[@textContents='Cliente']" />
+    </ObjectMapEntry>
+    <ObjectMapEntry id="TelaLogin" locator="//BrowserWindow">
+      <ObjectMapEntry id="BotaoLogin" locator="//SPAN[@id='Main_label']" />
+      <ObjectMapEntry id="Senha" locator="//INPUT[@id='Main_password']" />
+      <ObjectMapEntry id="Usuario" locator="//INPUT[@id='Main_user']" />
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
