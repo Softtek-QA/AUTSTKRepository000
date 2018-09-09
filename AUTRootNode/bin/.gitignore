@@ -7,6 +7,9 @@
 /AUTJAVALIB/
 /AUTJavaDerby/
 /AUTJavaH2/
+/AUTMySQL/
+/AUTSilk/
+/silk4j.settings
 /AUTLRYRPSVA002.objectmap
 /AUTLRYRSPBOITATA.objectmap
 /AUTLRYRSPBROWSEROBJECTS.objectmap
@@ -14,13 +17,11 @@
 /AUTLRYRSPHYBRIS.objectmap
 /AUTLRYRSPSAP.objectmap
 /AUTLRYRSPVA001.objectmap
-/AUTMySQL/
-/AUTSilk/
 /CHECKPOINT-AUTVA02GERADORPEDIDOS001.verification
 /CHECKPOINT-CADASTRO-ESTRANGEIRO.verification
 /CHECKPOINT-CADASTRO.verification
 /CHECKPOINT-TESTE.verification
 /README.md
 /SITEF/
-/silk4j.settings
 /package-info.class
+/AUTLRYRSPVA02.objectmap
