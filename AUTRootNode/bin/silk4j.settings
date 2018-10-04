@@ -4,17 +4,13 @@
     <browserType>GoogleChrome</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
-      <url>https://vahomolog.leroymerlin.com.br/va/lmbr/pt/BRL/login</url>
+      <url>http://homolog.leroymerlin.com.br</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
-      <string>OPT_TRUELOG_SCREENSHOT_MODE</string>
-      <int>2</int>
-    </entry>
-    <entry>
       <string>OPT_ASSET_NAMESPACE</string>
-      <string>AUTProjectComponentTemplate</string>
+      <string>AUTRootNode</string>
     </entry>
   </agentOptions>
 </recorderProject>
