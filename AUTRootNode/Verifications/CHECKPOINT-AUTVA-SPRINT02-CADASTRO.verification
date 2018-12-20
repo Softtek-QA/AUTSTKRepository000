@@ -1,0 +1,14 @@
+<imageVerification version="1">
+  <locator>VA.CadastroClientesDados.Dados Básicos</locator>
+  <matchAccuracy>10</matchAccuracy>
+  <imageData>iVBORw0KGgoAAAANSUhEUgAAAHQAAAATCAYAAABBaynFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGTSURBVGhD7VlBDsMgDOvj9qJ9cN/qbVMnVWIosU1IK8E49DJCSGLHQWzb9/29vnlqsC0w5wHzwHIBOplCfQF9vh7ul93B51nZfi1/KK9jjcUQjTW6j8WjrFNAs4PL9oeSZIAiUHvi7NmrgIZsfgBFLO896Nx/Z7LorDvjyKqd4ocCWkpy6dBiP5M9z5cl+8yXAkgEUCUvZuOdW+9TclRsSqUJAarO3F47RiAGaiugSrwtNkr8WTYnqF2AWsHU0lqypyxG1A6dWbOZzVDPXsmrxQblnV2HEKCIVWxW1l3D5MlKGF1mFMZbBWZkaIlDzVEhp+fLq1sYUI/9VwFqzVkGrCK5tQ+WlxLHlYCy80OAtkgIkzW1QxVVYGexdSUvJY6rAUVqQQG1Cq78ljEvrfmryBRTCW+9Ja8hZqhyg/NaHhXD8qvMOsUGyS67FKly613sav+ISFEpb42RvhTVMoXanYFakkG9hDBQvfgY8TwiWCCxi4lX9IwcrfxQg6zH+Rkf5xHL19pYf6+tDl0dOhZj/01hPkkSWToRKvkMAAAAAElFTkSuQmCC</imageData>
+  <verificationMode>Full</verificationMode>
+  <excludeAreas />
+  <clientAreaOnly>false</clientAreaOnly>
+  <failedLocation>
+    <x>0</x>
+    <y>0</y>
+    <width>0</width>
+    <height>0</height>
+  </failedLocation>
+</imageVerification>

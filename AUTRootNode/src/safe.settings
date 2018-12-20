@@ -4,21 +4,13 @@
     <browserType>GoogleChrome</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
-      <url>https://homolog.leroymerlin.com.br</url>
+      <url>http://10.56.96.170/safe/asp/default.asp</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
       <string>OPT_ASSET_NAMESPACE</string>
       <string>AUTRootNode</string>
-    </entry>
-    <entry>
-      <string>OPT_SHOW_PLAYBACK_STATUS_DIALOG</string>
-      <boolean>false</boolean>
-    </entry>
-    <entry>
-      <string>OPT_ENABLE_EMBEDDED_CHROME_SUPPORT</string>
-      <string>FALSE</string>
     </entry>
   </agentOptions>
 </recorderProject>

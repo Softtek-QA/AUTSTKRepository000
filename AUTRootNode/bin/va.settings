@@ -12,13 +12,5 @@
       <string>OPT_ASSET_NAMESPACE</string>
       <string>AUTRootNode</string>
     </entry>
-    <entry>
-      <string>OPT_SHOW_PLAYBACK_STATUS_DIALOG</string>
-      <boolean>false</boolean>
-    </entry>
-    <entry>
-      <string>OPT_ENABLE_EMBEDDED_CHROME_SUPPORT</string>
-      <string>FALSE</string>
-    </entry>
   </agentOptions>
 </recorderProject>

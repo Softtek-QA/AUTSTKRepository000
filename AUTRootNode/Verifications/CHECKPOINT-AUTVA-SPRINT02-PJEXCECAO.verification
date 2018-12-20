@@ -1,0 +1,21 @@
+<imageVerification version="1">
+  <locator>VA.Validacao.PJExcecao</locator>
+  <matchAccuracy>100</matchAccuracy>
+  <imageData>iVBORw0KGgoAAAANSUhEUgAAAiQAAAAXCAYAAAA7glRaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATXSURBVHhe7Z1tctQwEERzOE7EBTnNniMQqgKOGE33eCzbu7wfqaJqZWk+ntUtJSRvj8fjnS9qAAMwAAMwAAMwcCUDb1cuztrADwMwAAMwAAMw8MEAhoQbIm7IYAAGYAAGYOByBjAkQHg5hJyOOB3BAAzAAAyEhuT7j2/v26/VoHyutXod5n986etH3Wc1cXoSjRnZ2cOSs/Y2brVmdb67cDK+g8+ax13qSRwIHgzcm4EvhkRt7KuaecZGe8Yaq+pzxLzV3jqGdI8hyUzQZ57VXqncqvMdUe/uHFlO3bl5/t6bMv2hP/8rA38MSSZAjjh1CniGYJyxRqcGK5/d01vnZiMzJFE+LkfVXlXHr6z1UXNvc3LrdtTazIMgwgAMXMHAP4ZEXeE7J9xqImcIyhlrVPM+a7zKPRK8FYbkI18Vizsm+pbNWfVkHTZrGIABGDiegd+GxD2BzcQkul52jM2nuVk17/gtgEx4szpU8hvzVrmNMY5xbA2gYxJm6ysjOcYZndCd3JThUJ+vNiTZ+tmNj4q7wojbx86cqt9spsdvptSUmsJAj4EvhqRazGjDzMyNO94dF4m3c9rPRH4mzBVxcE7v1XVmNVE9U0KqjGNmEDIBd+btjHFqXJnfMSPKXDqMOH2s8O++A4oTPu9tpNSP+sFAn4FDDIlzcp4JW2YgnHmVSEQ3EJGYzU6Ue0TXEcvMkDjxuUbDHadq7dbBuYFQp/dqzErAo/W2a1QZGudzaxO9A13+1XvFJtnfJKkhNYSBcxhoGZLuCVSZBSWS2endeVY974irArUqdkfE7RiiatyucO4xB27Oirds7WyNIwxFFNvMdO7NtxKnYlv1n8/P2YCpM3WGgb8MHGpIRkFwhVGdiJ153TkqYrBSXLtipfKtmj2nLk7MqmbOy+fmdlSO6gYli1nlu527mteYH4YE8XLeH8bAybMy0DYk7qm0etvgzrs9CTrGxRHemRBEManGv8oNSST+VYFUtdprMI4Q+goXkdF2eK3E6cynbkEq67m9YRxiBwMwsIqB1v+ymRmAqlDNTt7OiXwmJO6zVaNUbcRdDEl0C5DdYDlxV/sc1W7VHE6ftvx2DUllPTV21Xul1uVzhAYGYOBKBlq/h8QRLefUe4R5UIJSidWJ2W2au647bk9s6qQcCbNj1FaZCRWv6rXTm+0alTxcVl3zFd1yVFhw+uTUgzEIEQzAwNUMtH5Ta7aRRydyd7w7LruydoVDiV9FHFwRqhiA7vrbGmU9GT9zhK4i5DPQK7VQc1ReJmVIMqPg1sqpj5t/NC4zp4rrSq0Yi1DBAAycwUDrb9lsN8no37OT7Oy5cYNV49T47frjXO5NQ5aj0yC3RlXjURUcN449dYnq7NQm61/3+YxHxyiMRs4xBJ13IGN1xq7iPzKglboyFhGCARg4k4H2X/utCn00PhOI8TMl3O7J3hXemTBVmuTkrPKambtKHFEunVsHV9idGDPBV88rs7WN0+HDMbKO2Va1dWLZyz9mBCFR7w2fw8jdGAgNyd2CJB5enFdjAMMA06/GNPnAdJcBDMmvv+XTLSLPU8MqA9VvuVXnZzxMwgAMPBsDGBIMCYbsIgYwJQjGswkG8cLsSgYwJBeJ0cqmMvd9Nw31A6r07r69ozf0BgbWMvATDm1mcpIIe/0AAAAASUVORK5CYII=</imageData>
+  <verificationMode>Full</verificationMode>
+  <excludeAreas>
+    <rectangle>
+      <x>253</x>
+      <y>0</y>
+      <width>295</width>
+      <height>24</height>
+    </rectangle>
+  </excludeAreas>
+  <clientAreaOnly>false</clientAreaOnly>
+  <failedLocation>
+    <x>0</x>
+    <y>0</y>
+    <width>0</width>
+    <height>0</height>
+  </failedLocation>
+</imageVerification>
