@@ -6,10 +6,6 @@
 	<classpathentry kind="con" path="com.borland.silktest.JTF_LIB"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="src" path="Object Maps"/>
-	<classpathentry kind="lib" path="Resources/AUTSilk/com.borland.silktest.jtf.javadoc_18.5.0.9630.jar"/>
-	<classpathentry kind="lib" path="Resources/AUTSilk/com.borland.silktest.silk4j.doc_18.5.0.jar"/>
-	<classpathentry kind="lib" path="Resources/AUTSilk/com.borland.silktest.silk4j.jar"/>
-	<classpathentry kind="lib" path="Resources/AUTSilk/silktest-jtf-nodeps.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTMySQL/mysql-connector-java-5.1.35-bin.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTMySQL/mysql-connector-java-8.0.11.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTJavaH2/h2-1.4.196.jar"/>
@@ -21,9 +17,13 @@
 	<classpathentry kind="lib" path="Resources/AUTJavaDerby/derbytools.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTIBMDB2/db2jcc.jar"/>
 	<classpathentry kind="lib" path="Resources/AUTIBMDB2/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="Resources/AUTSilk/com.borland.silktest.jtf.javadoc_19.5.0.10279.jar"/>
+	<classpathentry kind="lib" path="Resources/AUTSilk/silktest-jtf-nodeps.jar"/>
 	<classpathentry kind="src" path="Verifications"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/AUTPDVRootNode"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/AUTSAPRootNode"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/AUTSofttekFrameworkProject"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AUTALMRootNode"/>
+	<classpathentry kind="lib" path="C:/Users/Administrador/git/AUTSTKSolution/PJT001/AUTRootNode/Resources/AUTArquivos/activation-10.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
