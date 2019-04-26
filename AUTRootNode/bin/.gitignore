@@ -1,6 +1,9 @@
 /PDV-FEC-PARC.verification
 /br/
 /PDV-STATUS-0001.verification
+/.gitignore
+/AUTArquivos/
+/AUTIBMDB2/
 /AUTJAVALIB/
 /AUTJavaDerby/
 /AUTJavaH2/
@@ -22,6 +25,11 @@
 /README.md
 /SITEF/
 /SilkCentral/
-/AUTArquivos/
-/AUTIBMDB2/
+/boitata.settings
+/pdv.settings
+/safe.settings
+/sap.settings
+/silk4j.settings
+/silk4j_pdv.settings
+/va.settings
 /package-info.class
