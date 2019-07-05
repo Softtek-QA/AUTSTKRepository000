@@ -4,7 +4,7 @@
     <browserType>GoogleChrome</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
-      <url>https://homolog.leroymerlin.com.br</url>
+      <url>https://vahomolog.leroymerlin.com.br/va/lmbr/en/BRL/login</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
